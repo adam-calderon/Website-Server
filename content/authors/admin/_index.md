@@ -12,8 +12,9 @@ email: ""
 highlight_name: false
 interests:
 - Computational Psychiatry
-- Network Analysis 
 - Machine Learning 
+- Network Analysis 
+
 organizations:
 - name: Hungarian Academy of Sciences 
   url: http://www.ttk.hu/en
@@ -41,6 +42,6 @@ superuser: true
 title: Adam Calderon
 ---
 
-Adam graduated from Columbia University in 2020 with an M.A. in Psychology in Education and is currently a Fulbright scholar at the Hungarian Academy of Sciences. Adam is interested in advancing the scientific knowledge of mental illness and its measurement, modeling, nosology, and ontology. Adam is particularly interested in utilizing network analyses to promote an informed, data-driven approach to explain, predict, and treat mood and anxiety-related disorders. He is also interested in emotion dynamics, mindfulness, and precision neuroimaging.
+Adam graduated from Columbia University in 2020 with an M.A. in Psychology in Education and is currently a Fulbright scholar at the Hungarian Academy of Sciences. He is interested in utilizing machine learning to promote an informed, data-driven, approach to explain, predict, and treat mood and anxiety-related disorders. He is also interested in emotion dynamics, mindfulness, and neuroimaging. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Adam Calderon_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
