@@ -43,7 +43,7 @@ experience:
     description: |1-
         
         * Chosen as one of seven individuals to receive a Fulbright Research Grant to Hungary.
-        * Receiving training on structural and functional MRI, longitudinal time-sensitivity analysis, and machine learning classifier methods.
+        * Received training on structural and functional MRI, longitudinal time-sensitivity analysis, and machine learning classifier methods.
 
   - title: Research Assistant | Loss, Trauma, and Emotion Lab 
     company: Columbia University, Teachers College 
