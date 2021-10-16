@@ -25,7 +25,7 @@ https://doi.org/10.1016/j.cpr.2021.102000'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-04-01T00:00:00Z"
 summary: There has been a marked increase of network studies of Major Depressive Disorder (MDD). Despite rapidly growing contributions, their findings have yet to be systematically aggregated and examined. We therefore conducted a systematic review of depression network studies using PRISMA guidelines...
 title: "Networks of major depressive disorder: A systematic review"
 url_code: "Script for robust network.R"

@@ -15,12 +15,12 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
-twitter: ''
+description: 'Researcher at Hungarian Academy of Sciences'
+twitter: 'adm_calderon'
 
 # Contact (edit or remove options as required)
 
-email: ac4427@tc.columbia.edu
+email: Adam.Calderon@nyulangone.org
 contact_links:
   - icon: twitter
     icon_pack: fab
@@ -31,15 +31,15 @@ contact_links:
     name: Follow me on LinkedIN
     link: https://www.linkedin.com/in/admcalderon
 address:
-  street: Magyar Tudósok Körútja 2
-  city: Budapest
-  region: 
-  postcode: '1117'
-  country: Hungary
-  country_code: HU
+  street: One Park Avenue, 8th Floor
+  city: New York
+  region: NY 
+  postcode: '10016'
+  country: USA
+  country_code:
 coordinates:
-  latitude: '47.474310'
-  longitude: '19.059650'
+  latitude: '40.749599'
+  longitude: '-73.979500'
 
 # Site header
 
@@ -133,9 +133,9 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'G-39B7YC5T0Y'
   google_tag_manager: ''
-  google_site_verification: ''
+  google_site_verification: 'google-site-verification=R1DYTkRAwRt4UBTvfiZwfdWuLjlaIlO-wcqB9XhH9ik'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:

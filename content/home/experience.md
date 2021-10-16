@@ -23,32 +23,30 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+
+  - title: Research Assistant 
+    company: NYU Grossman School of Medicine 
+    company_url: 'https://med.nyu.edu/departments-institutes/psychiatry/research/anxiety-stress-prolonged-grief-program'
+    location: New York 
+    date_start: '2021-10-19'
+    date_end:
+    description: |1-
+           
+        * Provide support for research on the etiology and treatment of traumatic stress disorders, anxiety, and complicated grief, including consulting on a wide range of psychometric and machine learning analyses.
         
   - title: Fulbright Scholar
     company: Hungarian Academy of Sciences 
     company_url: 'http://www.ttk.hu/akk/en/'
     location: Budapest
     date_start: '2021-01-03'
-    date_end:
+    date_end: '2021-07-31'
     description: |1-
         
         * Chosen as one of seven individuals to receive a Fulbright Research Grant to Hungary.
         * Receiving training on structural and functional MRI, longitudinal time-sensitivity analysis, and machine learning classifier methods.
-        * Utilizing network analysis to tease population heterogeneity along the dementia spectrum.
 
-  - title: APA Psychology Intern 
-    company: United Nations Economic and Social Council
-    company_url: 'https://www.apa.org/international/united-nations'
-    location: New York
-    date_start: '2019-09-01'
-    date_end: '2021-05-15'
-    description: |1- 
-        * Supported mental health policy by fostering dialogues between APA representatives and U.N. policymakers.
-        * Held memberships on NGO Committee on Ageing, NGO Committee on the Rights of Indigenous Peoples, and NGO Committee on Migration.
-        * Served on the planning committee for Psychology Day at the United Nations. 
-      
   - title: Research Assistant | Loss, Trauma, and Emotion Lab 
-    company: Teachers College, Columbia University
+    company: Columbia University, Teachers College 
     company_url: 'https://www.tc.columbia.edu/ltelab/'
     location: New York
     date_start: '2018-09-01'
