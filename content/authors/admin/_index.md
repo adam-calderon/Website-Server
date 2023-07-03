@@ -2,23 +2,28 @@
 
 education:
   courses:
-  - course: MA in Psychology in Education
-    institution: Columbia University, Teachers College 
+  - course: Ph.D. in Clinical Psychology
+    institution: The Pennsylvania State University  
+    year: expected 2028
+  - course: M.A. in Psychology in Education
+    institution: Columbia University 
     year: 2020
-  - course: BS in Behavioral Neuroscience
+  - course: B.S. in Behavioral Neuroscience
     institution: Quinnipiac University
     year: 2017
 email: ""
 highlight_name: false
 interests:
-- Computational Psychiatry
-- Machine Learning 
-- Network Analysis 
+- anxiety & depression
+- computational psychiatry 
+- dynamical systems theory 
+- network science 
+- philosophy of science 
 
 organizations:
-- name: NYU Grossman School of Medicine  
+- name: The Pennsylvania State University  
   url: https://med.nyu.edu/departments-institutes/psychiatry/research/anxiety-stress-prolonged-grief-program
-role: Research Assistant 
+role: Ph.D. student 
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,8 +47,8 @@ superuser: true
 title: Adam Calderon
 ---
 
-Adam Calderon is an aspiring psychologist with an M.A. in Psychology in Education from Columbia University. He has been named a Fulbright Scholar at the Hungarian Academy of Sciences, an APA Psychology intern at the United Nations, and an NSF REU fellow. He is interested in utilizing machine learning to promote an informed, data-driven approach to explain, predict, and treat mood and anxiety-related disorders. He is also interested in emotion dynamics, mindfulness, and neuroimaging.
+Adam Calderon is a second-year Ph.D. student in clinical psychology at The Pennsylvania State University. His research is focused on better understanding the dynamic relationship between anxiety and mood disorders, with a particular interest in psychometrics, computational modeling, and formalized psychological theory. 
 
-Currently, Adam holds a dual appointment as a measures researcher for Owl, a digital health company, and a research assistant in the Anxiety, Stress, and Prolonged Grief Program at NYU Grossman School of Medicine.
+Adam was a Fulbright Fellow at the Hungarian Academy of Sciences, an APA Psychology Fellow at the United Nations, and a current Bunton-Waller Scholar at Penn State. Adam received a B.S. in behavioral neuroscience at Quinnipiac University and an M.A. in Psychology in Education at Columbia University.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Adam Calderon_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Adam_Calderon_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
